@@ -1,0 +1,8 @@
+.dessin{
+    background-color: #323439;
+    border: black solid 4px;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
