@@ -1,0 +1,17 @@
+.dessin{
+    background-color: #adbd00;
+    border: black solid 4px;
+    margin: 10px;
+}
+section{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 400px;
+}
+#sc{
+    display: block;
+    align-self: flex-start;
+
+}
